@@ -1,5 +1,7 @@
 # React Auth Multi
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/react-auth-multi.svg)](https://greenkeeper.io/)
+
 This sample demonstrates how to silently renew `access_token`s in a React application with Auth0. The sample uses the create-react-app.
 
 ## Getting Started
