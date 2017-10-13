@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "react-scripts": "1.0.10"
+    "react-scripts": "1.0.14"
   },
   "dependencies": {
     "auth0-js": "^8.8.0",
@@ -16,13 +16,13 @@
     "history": "^4.6.1",
     "jwks-rsa": "^1.1.1",
     "morgan": "^1.8.2",
-    "connect-static-file": "^1.2.0",
+    "connect-static-file": "^2.0.0",
     "cors": "^2.8.4",
     "express": "^4.15.3",
     "npm-run-all": "^4.0.2",
-    "react": "^15.6.1",
+    "react": "^16.0.0",
     "react-bootstrap": "^0.31.2",
-    "react-dom": "^15.6.1",
+    "react-dom": "^16.0.0",
     "react-router": "^4.1.2",
     "react-router-dom": "^4.1.2"
   },
